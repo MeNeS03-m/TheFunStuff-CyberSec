@@ -1,1 +1,2 @@
 All about the fun stuff!
+![alt text]([http://url/to/img.png](https://www.google.com/search?sca_esv=fd720482c30bdadb&sxsrf=AHTn8zoPOL00QdW5pzVFCLHJ6eRmhaUlhA:1741722160354&q=educational+purposes+only&udm=2&fbs=ABzOT_C6HZESFBpD-a6wBwrIm2041RevU0T3J6J8ChyWSMUzXpQcs9IBg_JPcxguI_6368qJoebdPzCfPr234SkajgK_aQ98Hj5xEbXDP4ccS8PTIfsLAaTZTD40Zsv_EpMbY-owtQ_LZv8EKTERF7M4lAVBGw46oJxDoy1bIBCUbmTXEuPhsR5wOe2eITspJSPC2Lf-AfXxgtCoR8UNfvf6MKM2L18Xug&sa=X&ved=2ahUKEwirh6nV5IKMAxXCERAIHTorFWsQtKgLegQIDRAB&biw=1920&bih=919&dpr=1#vhid=CcAIPgU1H-gaIM&vssid=mosaic))
