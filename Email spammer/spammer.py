@@ -14,7 +14,6 @@ spamEmail = "..."
 count = 0
 maxEmails = 20
 
-
 subjects = [
     "Auto Email {count}",
     "spam"
