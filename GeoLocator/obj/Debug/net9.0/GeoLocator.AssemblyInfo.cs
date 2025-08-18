@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeoLocator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+489b49960cba266856550e173579d112804fb173")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0dfc108d658fdeae00be803c8b68ae3b7e9ffd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeoLocator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeoLocator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

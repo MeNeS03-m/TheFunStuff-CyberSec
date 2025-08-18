@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\przem\\OneDrive\\Skrivebord\\fun\\TheFunStuff\\GeoLocator\\GeoLocator.csproj",
+      "projectUniqueName": "C:\\Users\\przem\\OneDrive\\Skrivebord\\TheFunStuff-CyberSec-1\\GeoLocator\\GeoLocator.csproj",
       "projectName": "GeoLocator",
-      "projectPath": "C:\\Users\\przem\\OneDrive\\Skrivebord\\fun\\TheFunStuff\\GeoLocator\\GeoLocator.csproj",
+      "projectPath": "C:\\Users\\przem\\OneDrive\\Skrivebord\\TheFunStuff-CyberSec-1\\GeoLocator\\GeoLocator.csproj",
       "packagesPath": "C:\\Users\\przem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\przem\\OneDrive\\Skrivebord\\fun\\TheFunStuff\\GeoLocator\\obj\\",
+      "outputPath": "C:\\Users\\przem\\OneDrive\\Skrivebord\\TheFunStuff-CyberSec-1\\GeoLocator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\przem\\AppData\\Roaming\\NuGet\\NuGet.Config"
