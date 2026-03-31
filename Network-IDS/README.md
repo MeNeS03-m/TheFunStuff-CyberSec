@@ -1,6 +1,7 @@
 # Network Intrusion Detection System (NIDS)
 
 A Python-based network intrusion detection system that monitors live traffic in real time and visualizes threats through a sleek web dashboard.
+UI built with help of an AI
 
 ---
 
