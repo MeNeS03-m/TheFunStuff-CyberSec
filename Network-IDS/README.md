@@ -1,14 +1,13 @@
-# 🛡️ Network Intrusion Detection System (NIDS)
+# Network Intrusion Detection System (NIDS)
 
 A Python-based network intrusion detection system that monitors live traffic in real time and visualizes threats through a sleek web dashboard.
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 > Run the tool and open `http://localhost:5000` in your browser.
 
-![Dashboard]
 
 The dashboard features:
 - **Live stat cards** — total alerts, port scans, brute force attempts, ARP spoofing
@@ -23,13 +22,13 @@ The dashboard features:
 
 | Detection | Description |
 |---|---|
-| ⚡ Port Scan | Detects SYN flood / rapid port scanning |
-| 🔨 Brute Force | Detects repeated connection attempts to SSH (22), RDP (3389), FTP (21) |
-| 👻 ARP Spoofing | Detects unsolicited ARP replies on local network |
+|  Port Scan | Detects SYN flood / rapid port scanning |
+|  Brute Force | Detects repeated connection attempts to SSH (22), RDP (3389), FTP (21) |
+|  ARP Spoofing | Detects unsolicited ARP replies on local network |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3** — core detection engine
 - **Scapy** — live packet capture and analysis
@@ -40,7 +39,7 @@ The dashboard features:
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Prerequisites
 
@@ -80,9 +79,9 @@ LOG_FILE = "logs\\alerts.log"
 
 ---
 
-## ▶️ Usage
+##  Usage
 
-> ⚠️ Must be run as **Administrator** (Scapy requires raw socket access)
+>  Must be run as **Administrator** (Scapy requires raw socket access)
 
 ```powershell
 # Right-click PowerShell → Run as Administrator
@@ -97,7 +96,7 @@ http://localhost:5000
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Simulate a port scan against yourself:
 ```powershell
@@ -115,7 +114,7 @@ Get-Content logs\alerts.log -Wait
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 network-ids/
